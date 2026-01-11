@@ -1,0 +1,10 @@
+{
+  "name": "ACIL",
+  "symbol": "ACIL",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ACIL is a small experimental meme token on BNB Smart Chain built for learning and community exploration.",
+  "website": "https://github.com/fathoni733/ACILtoken",
+  "explorer": "https://bscscan.com/token/0x101D76aE634f8AFba9650Ba351DF94EC38bA4DC9",
+  "id": "0x101D76aE634f8AFba9650Ba351DF94EC38bA4DC9"
+}
